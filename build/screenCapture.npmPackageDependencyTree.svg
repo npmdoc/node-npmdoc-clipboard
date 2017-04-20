@@ -8,6 +8,6 @@
 <tspan x="10" y="90">  ├─┬ good-listener@1.2.2 </tspan>
 <tspan x="10" y="106">  │ └── delegate@3.1.2 </tspan>
 <tspan x="10" y="122">  ├── select@1.1.2 </tspan>
-<tspan x="10" y="138">  └── tiny-emitter@1.1.0</tspan>
+<tspan x="10" y="138">  └── tiny-emitter@1.2.0</tspan>
 </text>
 </svg>
